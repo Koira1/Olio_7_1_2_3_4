@@ -1,0 +1,2 @@
+rootProject.name='Kokeilu'
+include ':app'
